@@ -6,4 +6,4 @@
 
 ## darom
 
-1. ![](assets/2023-06-13-09-52-11.png)
+1. ![](assets/2023-06-13-09-52-11.png) darom visus elementus skirtingom fono spalvom
